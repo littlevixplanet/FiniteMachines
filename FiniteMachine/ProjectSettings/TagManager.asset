@@ -8,6 +8,8 @@ TagManager:
   - Fire
   - CinemachineTarget
   - Safe
+  - hide
+  - cop
   layers:
   - Default
   - TransparentFX
